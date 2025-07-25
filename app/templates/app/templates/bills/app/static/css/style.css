@@ -1,0 +1,16 @@
+body {
+    padding-top: 20px;
+    background-color: #f8f9fa;
+}
+
+.table-responsive {
+    margin-top: 20px;
+}
+
+.badge {
+    font-size: 0.9em;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
